@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+.headingStyle {
+  width: 600px;
+  height: 10vh;
+  background-color: azure;
+  border-radius: 200px;
+  text-align: center;
+  padding-top: 20px;
+  color: #fa9191;
+}
+span {
+  color: #eb6383;
+}
